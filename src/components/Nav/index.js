@@ -14,7 +14,7 @@ function Nav() {
         <ul class ="nav justify-content-end" >
           <li class= "nav-item" >
             <a class="nav-link" href="#about">
-              About me
+              About
             </a>
           </li>
           <li class= "nav-item" className= 'mx-2'>
@@ -24,7 +24,12 @@ function Nav() {
           </li>
           <li class= "nav-item" className= 'mx-2'>
             <a class="nav-link" href="#projects">
-              Projects
+              Work
+            </a>
+          </li>
+          <li class= "nav-item" className= 'mx-2'>
+            <a class="nav-link" href="#Resume">
+              Resume
             </a>
           </li>
         </ul>  
